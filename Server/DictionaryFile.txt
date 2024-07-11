@@ -1,0 +1,3 @@
+banana:A long yellow fruit
+orange:A citrus fruit with a thick skin and segmented juicy flesh
+apple:Fruit with red or green skin and sweet to tart crisp whitish flesh
